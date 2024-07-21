@@ -5,4 +5,3 @@ I'm a passionate Computer Science Engineering student currently in my pre-final 
 
 📍 Based in Mangalore, Karnataka, India
 📧 Reach me at vivinlobo03@gmail.com
-💼 Connect with me on LinkedIn
