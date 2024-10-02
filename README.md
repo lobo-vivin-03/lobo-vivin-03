@@ -38,6 +38,5 @@ I'm a Computer Science Engineering student currently in my final year at Sahyadr
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
 </p>
-<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=suhasraocodes&theme=dark" alt="GitHub Streak" /></a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhasraocodes&show_icons=true&locale=en&layout=compact" alt="suhasraocodes" /></p> -->
+
 
