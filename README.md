@@ -38,7 +38,7 @@ I'm a Computer Science Engineering student currently in my final year at Sahyadr
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
     <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-line.svg" alt="react" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
 
 </p>
