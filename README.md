@@ -41,6 +41,9 @@ I'm a Computer Science Engineering student currently in my final year at Sahyadr
   <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original-wordmark.svg" alt="Cypress" width="40" height="40" style="filter: invert(100%);"/> 
   </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/> 
+  </a>
 
 
 </p>
