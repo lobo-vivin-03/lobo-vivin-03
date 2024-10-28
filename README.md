@@ -40,6 +40,10 @@ I'm a Computer Science Engineering student currently in my final year at Sahyadr
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
   </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40" style="filter: invert(1);" />
+  </a>
+
   
   
   
