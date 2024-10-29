@@ -52,6 +52,9 @@ I'm a Computer Science Engineering student currently in my final year at Sahyadr
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/> 
   </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" alt="Mysql" width="40" height="40"/> 
+  </a>
 
 
 </p>
