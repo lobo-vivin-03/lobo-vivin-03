@@ -43,9 +43,9 @@ I'm a Computer Science Engineering student currently in my final year at Sahyadr
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="python" width="40" height="40"/> 
   </a>
-
-
-  
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="python" width="40" height="40"/> 
+  </a>
   <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cypress-Light.svg" alt="Cypress" width="40" height="40"/> 
   </a>
