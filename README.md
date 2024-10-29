@@ -32,7 +32,7 @@ I'm a Computer Science Engineering student currently in my final year at Sahyadr
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
@@ -47,7 +47,7 @@ I'm a Computer Science Engineering student currently in my final year at Sahyadr
 
   
   <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original-wordmark.svg" alt="Cypress" width="40" height="40" style="filter: invert(100%);"/> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cypress-Light.svg" alt="Cypress" width="40" height="40"/> 
   </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/> 
